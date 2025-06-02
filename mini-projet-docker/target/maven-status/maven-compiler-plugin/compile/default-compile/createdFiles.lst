@@ -11,8 +11,8 @@ com/paymybuddy/paymybuddy/repository/TransactionRepository.class
 com/paymybuddy/paymybuddy/service/TransactionService.class
 com/paymybuddy/paymybuddy/constants/Pagination.class
 com/paymybuddy/paymybuddy/model/viewmodel/TransactionViewModel.class
-com/paymybuddy/paymybuddy/exceptions/BuddyNotFoundException.class
 com/paymybuddy/paymybuddy/service/BankAccountService.class
+com/paymybuddy/paymybuddy/exceptions/BuddyNotFoundException.class
 com/paymybuddy/paymybuddy/controller/TransferController.class
 com/paymybuddy/paymybuddy/exceptions/BankAccountNotFoundException.class
 com/paymybuddy/paymybuddy/service/DBUserDetailsService.class
