@@ -14,9 +14,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-# Auteur
+# ![left 100%](images/logo_portfolio_2b.png)
 
-## ![left 100%](images/logo_portfolio_2.png)
+## Auteur
+
+👤**Jérôme BRASSEUR**
 
 * Github: [@Jérôme Brasseur](https://github.com/jeromebrasseur)
 * LinkedIn: [@Jérôme Brasseur](https://www.linkedin.com/in/jeromebrasseur92000)
