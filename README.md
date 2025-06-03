@@ -14,7 +14,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-# ![left 100%](images/logo_portfolio_2b.png)
+# ![left 100%](images/logo_portfolio.png)
 
 ## Auteur
 
@@ -27,7 +27,7 @@
 
 ### 📎 Bootcamp25 - Mini projets admin système DEVOPS 
 
-![left 100%](images/bandeau-readme.png?raw=true)
+![left 100%](images/devops_bootcamp.png)
 
 _`Début du projet le 10/09/2021`_
 
