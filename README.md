@@ -45,7 +45,7 @@ _`Début du projet le 01/05/2025`_
   </ol>
 </details>
 
-
+<br>
 
 <!-- A PROPOS DU BOOTCAMP -->
 ## A propos du bootcamp
@@ -59,7 +59,7 @@ Les objectifs sont les suivants :
 * Être capable de proposer une chaîne complète CI/CD et de la monter entièrement
 * Sécuriser une infrastructure DevOps à l’ère du Cloud
 
-
+<br>
 
 <!-- LES OUTILS DEVOPS -->
 ## Les outils DevOps
@@ -73,36 +73,30 @@ Durant les 3 mois de formation, des cours théoriques et des ateliers pratiques 
 * [![Ansible][Ansible.com]][Ansible-url]
 * [![Kubernetes][Kubernetes.io]][Kubernetes-url]
 
-
+<br>
 
 <!-- EXEMPLES D'UTILISATION -->
 ## Utilisé dans les projets
 
+Cette section liste les principaux systèmes et applications utilisés dans les différents projets.
 
+| Systèmes   | Base de données   | Langages   | Editeur de code   | Virtualisation  | Cloud         | Travail collaboratif  |
+| :--------: |:--------------:   |:---------: |:---------------:  |:-------------:  |:----------:   |:------------------:   |
+| [![Ubuntu][Ubuntu.com]][Ubuntu-url] | [![MariaDB][MariaDB.org]][MariaDB-url] | [![Bash][Bash.com]][Bash-url] | [![Vim][Vim.org]][Vim-url] | [![Vagrant][Vagrant.com]][Vagrant-url] | [![Aws][Aws.com]][Aws-url] | [![Github][Github.com]][Github-url] |
+| [![Debian][Debian.org]][Debian-url] | [![MySQL][MySQL.com]][MySQL-url] | [![Python][Python.org]][Python-url] | [![VScode][VScode.com]][VScode-url] | [![Virtualbox][Virtualbox.org]][Virtualbox-url] | [![Hostinger][Hostinger.com]][Hostinger-url] | [![Slack][Slack.com]][Slack-url] |
+| [![Windows][Windows.com]][Windows-url] |                                     | [![Yaml][Yaml.org]][Yaml-url]       |           |          |          |
 
-| Langages           | et Applications    |
-| :-------------:     |:--------------:    |
-| Firefox développeur | Visual Studio Code |
-| Git/GitHub          | Markdown           |
-
-
+<br>
 
 <!--Remerciements -->
 ## Remerciements
 
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://animate.style)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Eazytraining](https://eazytraining.fr)
+* [Dirane TAFEN](https://github.com/diranetafen)
+* [Olivier GOUOKAM](https://github.com/olivierkouokam)
+* [Aurélie KAMGANG](https://github.com/aurelie-kamgang)
 
-
+<br>
 
 **[⬆ Retour en haut](#auteur)** <br>
 
@@ -120,7 +114,35 @@ Durant les 3 mois de formation, des cours théoriques et des ateliers pratiques 
 [Ansible-url]: https://svelte.dev/
 [Terraform.com]: https://img.shields.io/badge/Terraform-734F96?logo=terraform&logoColor=fff
 [Terraform-url]: https://developer.hashicorp.com/terraform
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
+[Ubuntu.com]: https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white
+[Ubuntu-url]: https://ubuntu.com
+[Debian.org]: https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff
+[Debian-url]: https://debian.org
+[Windows.com]: https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white
+[Windows-url]: https://windows.com
+[Aws.com]: https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white
+[Aws-url]: https://aws.amazon.com
+[Hostinger.com]: https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff
+[Hostinger-url]: https://hostinger.com
+[Vim.org]: https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white
+[Vim-url]: https://vim.org
+[VScode.com]: https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white
+[VScode-url]: https://code.visualstudio.com
+[MariaDB.org]: https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white
+[MariaDB-url]: https://mariadb.org
+[MySQL.com]: https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff
+[MySQL-url]: https://mysql.com
+[Bash.com]: https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff
+[Bash-url]: https://fr.wikipedia.org/wiki/Bourne-Again_shell
+[Python.org]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff
+[Python-url]: https://python.org
+[Yaml.org]: https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff
+[Yaml-url]: https://yaml.org
+[Github.com]: https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white
+[Github-url]: https://github.com
+[Slack.com]: https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff
+[Slack-url]: https://app.slack.com
+[Vagrant.com]: https://img.shields.io/badge/Vagrant-3668FF?logo=vagrant&logoColor=fff
+[Vagrant-url]: https://developer.hashicorp.com/vagrant
+[Virtualbox.org]: https://img.shields.io/badge/VirtualBox-FE7A16?logo=virtualbox&logoColor=fff
+[Virtualbox-url]: https://virtualbox.org
