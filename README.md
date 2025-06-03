@@ -14,18 +14,16 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-# ![left 100%](https://raw.githubusercontent.com/thierry-laval/archives/master/images/logo-portfolio.png)
+# Auteur
 
-## Auteur
+## ![left 100%](images/logo_portfolio_2.png)
 
-👤**Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
-
-* Github: [@Thierry Laval](https://github.com/thierry-laval)
-* LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
+* Github: [@Jérôme Brasseur](https://github.com/jeromebrasseur)
+* LinkedIn: [@Jérôme Brasseur](https://www.linkedin.com/in/jeromebrasseur92000)
 
 ***
 
-### 📎 Projet 22 - Création d'un fichier README pour GitHub
+### 📎 Bootcamp25 - Mini projets admin système DEVOPS 
 
 ![left 100%](images/bandeau-readme.png?raw=true)
 
